@@ -1,0 +1,11 @@
+{
+    "domain": "ha_notify",
+    "name": "\u901A\u77E5\u63D0\u9192",
+    "config_flow": false,
+    "documentation": "https://github.com/shaonianzhentan/ha_notify",
+    "issue_tracker": "https://github.com/shaonianzhentan/ha_notify/issues",
+    "requirements": [],
+    "dependencies": [],
+    "codeowners": [ "shaonianzhentan" ],
+    "version": "1.0.0"
+  }
